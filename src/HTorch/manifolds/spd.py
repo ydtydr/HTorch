@@ -1,0 +1,5 @@
+"""
+.. module:: manifolds
+.. autoclass:: SPD
+
+"""

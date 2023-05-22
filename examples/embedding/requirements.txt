@@ -1,0 +1,8 @@
+pytorch
+nltk
+scikit-learn
+pandas
+h5py
+cython
+tqdm
+numpy
